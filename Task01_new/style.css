@@ -1,0 +1,165 @@
+@charset "utf-8" ;
+
+/*topページ*/
+/*全体のデザイン*/
+
+h1.top-main-style {
+	font-size: 40px;
+	padding: 0.5em;
+	color: #000000;
+	background: #FF4500;
+        border-bottom: solid 3px #516ab6;
+}
+
+.top-subhead {
+	font-size: 20px;
+}
+
+.top-profile {
+	padding: 15px;
+	border: 0.1px solid #095cdc;
+	background-color: #FFDBA9;
+}
+
+.top-profile h2 {
+	margin-top: 0;
+	margin-bottom 0;
+}
+
+.top-table {
+	border-collapse: collapse;
+	height: 150px;
+	width: 200px;
+}
+
+.top-table th, td {
+	border: 1px solid #8fbac8;
+	padding: 8px;
+	text-align: center;
+}
+
+.top-table th {
+	background-color: #B0C4DE;
+}	
+
+.top-table td {
+	background-color: #F0FFF0;
+}
+/*リンク*/
+
+a:hover {
+	color: #b7dbf2;
+}
+
+a:active {
+	color: #4ca4e8;
+}
+
+/*ITスペシャリスト科のページ*/
+#it-head {
+	font-size: 40px;
+	padding: 0.5em;
+	color: #FFFFFF;
+	background: #0000FF;
+	border-bottom: solid 3px #516ab6;
+}
+
+.it-main-style {
+	font-size: 35px;
+	background-color: #87CEFA;
+	padding: 10px;
+}
+
+.it-float-box {
+	float: right;
+}
+
+.it-float-box2 {
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+	vertical-align: baseline;
+}
+
+.it-float-box3 {
+	float: right;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+	vertical-align: baseline;
+}
+
+.text {
+	margin: 0 0 1em 0;
+	line-height: 25px;
+}
+
+.name1 {
+	text-align: right;
+}
+.title1 {
+	font-size: 20px;
+	color: #000080;
+	text-align: right;
+}
+
+.title {
+	font-size: 20px;
+	color: #00BFFF;
+}
+
+/*サイバーセキュリティ科の紹介ページ*/
+
+#n-head {
+	font-size: 40px;
+	padding: 0.5em;
+	color: #FFFFFF;
+	background: #008000;
+	border-bottom: solid 3px #516ab6;
+}
+
+.n-main-style {
+	font-size: 35px;
+	background-color: #90EE90;
+	padding: 10px;
+}
+
+.n-float-box {
+	float: right;
+}
+
+.n-float-box2 {
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+	vertical-align: baseline;
+}
+
+.n-float-box3 {
+	float: right;
+	margin-right: 1em;
+	margin-bottom: 0.5em;
+	vertical-align: baseline;
+}
+
+.n-text {
+	margin: 0 0 1em 0;
+	line-height: 25px;
+}
+
+.n-name1 {
+	text-align: right;
+}
+
+.n-title1 {
+	font-size: 20px;
+	color: #FF7F50;
+	text-align: right;
+}
+
+.n-title {
+	font-size: 20px;
+	color: #228B22;
+}
+
+
+
