@@ -12,4 +12,4 @@
 8  chapter08 「[リンクの設定と画像の表示](chapter09/ch08-linkimg.html)
 9  chapter09 「[ボックスと情報の管理]
 10  chapter10 「[テーブル](chapter10/ch10-table.html)
-11. Task1 「Task1|(Task01_new/index.html)
+11. Task1 「[Task1|(Task01_new/index.html)」
